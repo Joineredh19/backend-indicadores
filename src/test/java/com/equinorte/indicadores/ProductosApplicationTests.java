@@ -1,4 +1,4 @@
-package com.hypersoft.productos;
+package com.equinorte.indicadores;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
